@@ -1,0 +1,58 @@
+
+h1 {
+	color; white;
+	background-color: green;
+	text-align: center;
+}
+
+h4 {
+	border: dashed;
+	border-width: 4px:
+	border-left-width: 5px;
+	border-right-width: 6px;
+	border-color: white;
+	background-color: purple;
+	color: white;
+	text-align: right;
+	
+}
+
+
+h2 {
+	border: solid;
+}
+
+dd {
+	background-color: red;
+}
+
+
+
+p {
+	background-color: red;
+	color: yellow;
+	text-align: center;
+    margin: 10px
+	padding: 20px;
+}
+
+h3 {
+	background-color: black;
+	color: white;
+	text-align: left;
+	
+
+body {
+	font-family: arial, helvetica, sans-serif;
+	font-size: 14px;
+	color: ;
+	background-color: black;
+}
+p {
+	color: white;
+	
+}
+
+h {
+	color: yellow;
+	

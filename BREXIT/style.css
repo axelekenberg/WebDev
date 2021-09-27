@@ -1,0 +1,120 @@
+body {
+	background-color: #EEE;
+	font-family: Helvetica, Arial, sans-serif;
+    height. 100vh;
+	background:
+	    linear-gradient(45deg, rgb(76, 0, 255), transparent),
+		repeating-linear-gradient(45deg, rgba(183, 0, 255, 0.5) 0%, rgba(183, 0, 255, 0.5) 5%, transparent, transparent 10%, rgba(183, 0, 255, 0.5) 11%, transparent 11%, transparent 13% ),
+	    rgb(216, 118, 255) repeating-linear-gradient(-45deg, rgba(183, 0, 255, 0.5) 0px, rgba(183, 0, 255, 0.5) 30px, transparent 30px, transparent 70px)
+}
+
+
+
+a {
+	text-decoration: underline;
+	color: white;
+	
+}
+
+h1, h2, h3 {
+    margin: 0;
+
+}
+	
+#container {
+	background-color: ;
+	width: 800px; color= red;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+
+
+
+
+
+#header {
+    background-color: #000000;
+	margin: 20px;
+	padding: 20px;
+	color: white;
+	text-align: center;
+
+}
+
+#Home {
+	 background-color: #000000;
+	color: white;
+	text-align: center;
+
+}
+
+
+#Varför {
+	background-color: #000000;
+	color: white;
+	text-align: center;
+	
+}
+
+
+#Intressant {
+		background-color: #000000;
+	color: white;
+	text-align: center;
+	
+}
+
+#Manus {
+	background-color: #000000;
+	color: white;
+	text-align: center;
+	
+
+#content {
+	padding: 10px;
+	
+}
+
+#nav {
+	width: 300px;'
+	float: left;
+	
+}
+
+#nav ul{
+	list-style-type: none;
+	padding: 0;
+	
+}
+
+
+
+#nav .selected {
+	font-weight:bold;
+
+}
+
+
+
+
+#main {
+	width: 600px;h2 {
+    border-style: dashed;
+    border-width: 3px;
+    border-left-width: 10px;
+    border-right-width: 10px;
+    border-color: red;
+}
+This will make a red dashed bo
+	float: right;
+	
+}
+
+#footer {
+	clear:both;
+	padding: 10px;
+	background-color: #999999;
+	color: white;
+	text-align: right;
+}
