@@ -14,15 +14,33 @@
 
   .card {
     background-size: cover;
+    
   }
+
+ .show {
+     color: white;
+     font-size: 2em;
+     margin-left: 20px;
+ }
+
+ .hide {
+    color: white;
+    font-size: 2em;
+}
+
+  #cont {display: none; background-color: white; color: black; padding: 1em; margin: 0; font-style: bold;}
+          .show:focus + .hide {display: inline; }
+          .show:focus + .hide + #cont {display: block;}
+          
 
   .card h2 {
     text-shadow: var(--tc-blue-dark) 2px 2px 3px;
   }
 
-  .card:hover {
-    outline: 0.5em solid var(--tc-orange);
-  }
+  
+
+
+
   .card-link span {
     position:absolute;
     width:100%;
